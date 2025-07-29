@@ -1,6 +1,6 @@
 # Welcome to Siva Academy Official GitHub
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=005BA1&vCenter=true&width=1000&lines=Empowering+Students+with+Skill-Based+Training;Java+Full+Stack+%7C+MERN+Stack+%7C+Python+%7C+DevOps+%7C+UI%2FUX+Design;Join+Siva+Academy+Today!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=005BA1&vCenter=true&width=1000&lines=Empowering+Students+with+Skill-Based+Training;Java+Full+Stack+%7C+MERN+Stack+%7C+Python+%7C+DevOps+%7C+UI%2FUX+Design+%7C+Data+Science+%7C+Data+Analytics;Join+Siva+Academy+Today!" alt="Typing SVG" />
 
 **Siva Academy**, a unit of **Siva Complete Solutions**, offers hands-on, project-oriented training to bridge the gap between education and employability. We focus on real-world skills that prepare students to meet industry demands with confidence.
 
