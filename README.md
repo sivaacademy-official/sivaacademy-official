@@ -17,33 +17,48 @@
 
 ### 1. Java Full Stack Development
 - Core Java, Spring Boot, Hibernate
-- React.js with TypeScript, Tailwind CSS
+- React with TypeScript, Tailwind CSS
 - REST APIs, MySQL, MongoDB, GitHub, Jenkins, Docker
 
 ### 2. Python Full Stack Development
 - Core Python, Django/Flask
-- React.js or Angular, REST APIs
+- React or Angular, REST APIs
 - PostgreSQL, Git, Deployment
 
 ### 3. MERN Stack Development
-- MongoDB, Express.js, React.js, Node.js
+- MongoDB, Express.js, React, Node.js
 - Authentication, REST APIs
 - Deployment using Netlify/Render/Heroku
 
-### 4. Data Science with Python
-- Numpy, Pandas, Matplotlib, Scikit-learn
-- Machine Learning Algorithms
+### 4. Data Analytics/Business Analytics
+- Advanced Excel
+- SQL
+- PySpark.SQL
+- Data Visualization (Power BI, Tableau)
+- Statistics, Python
 - Mini Projects and Real-Time Use Cases
 
-### 5. UI/UX Design & Frontend Development
+### 5. Data Science with Python
+- Numpy, Pandas, Matplotlib, Seaborn
+- Statistics
+- Machine Learning Algorithms
+- Deep Learning
+- Mini Projects and Real-Time Use Cases
+
+### 6. UI/UX Design & Frontend Development
 - HTML5, CSS3, JavaScript
 - Bootstrap, Tailwind CSS, Figma
 - ReactJS and SPA Principles
 
-### 6. DevOps Essentials
+### 7. DevOps Essentials
 - Git, GitHub, Jenkins
 - Docker, CI/CD Pipeline Basics
 - Deployment Workflow
+
+### 8. Office Essentials
+- Advanced Excel
+- Word
+- PowerPoint
 
 ---
 
